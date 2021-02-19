@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## &#x1f4c8; GitHub Stats
+## Tools and Technologies 🛠️
 
-<img align=center src="https://github-readme-stats.vercel.app/api?username=Darkskald&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=nord&line_height=27" />
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+
+
+### GitHub Stats &#x1f4c8;
+
 <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkskald&hide=Jupyter Notebook&theme=nord&line_height=27" />
