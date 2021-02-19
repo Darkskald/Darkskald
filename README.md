@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Tools and Technologies 🛠️
+---
+## Chemistry meets coding 🧪💻
+
+I am a physical chemist by training and became a software developer by passion. My goal is to make the best out of both worlds and utilize the power of modern professional software development to ease the life of scientists by automatizing the boring stuff, enabling them to focus on what really matters.
+
+---
+## Tools and technologies 🛠️
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
