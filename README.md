@@ -1,4 +1,4 @@
-## Hi there, this is *Darkskald* calling! 👋
+## Hi there, this is the realm of **Darkskald**
 
 <!--
 **Darkskald/Darkskald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
