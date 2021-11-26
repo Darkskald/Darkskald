@@ -1,5 +1,7 @@
 ## Hi there, this is the realm of **Darkskald**
 
+This is the space for my coding experiments.
+
 <!--
 **Darkskald/Darkskald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ---
-## Chemistry meets coding 🧪💻
+## Chemistry 🧪 meets coding 💻
 
 I am a physical chemist by training and became a software developer by passion. My goal is to make the best out of both worlds and utilize the power of modern professional software development to ease the life of scientists by automatizing the boring stuff, enabling them to focus on what really matters.
 
