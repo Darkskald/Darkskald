@@ -3,7 +3,8 @@
 This is the space for my (private) coding experiments.
 
 ---
-## Chemistry 🧪 + coding 💻 = Lab Digital Transformation
+
+## Chemistry 🧪 + coding 💻 = Digital Lab
 
 I am a physical chemist by training and became a software developer by passion. My goal is to make the best out of both worlds and utilize the power of modern professional software development to ease the life of scientists by automatizing the boring stuff, enabling them to focus on what really matters.
 
