@@ -15,7 +15,8 @@ My professional interests:
 - integration of the lab-specific software with its digital surrounding in enterprise context (ERP, Workflow Orchestration, User Management...)
 - streamlining lab data flows, analyzing and visualizing lab data
 
-## aka known as Flangator
+## ... also known as Flangator:
 
---> [Corporate GitHub profile](https://github.com/fdlange)
---> [Corporate GitLab profile](https://gitlab.com/flangator)
+- --> [Corporate GitHub profile](https://github.com/fdlange)
+
+- --> [Corporate GitLab profile](https://gitlab.com/flangator)
